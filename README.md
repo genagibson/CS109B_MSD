@@ -6,7 +6,7 @@ Milestone 2 submitted!
 
 * Rahul: Looking into Billboard data and user plays as possible better target variables
 * Vladimir: 
-* Oyvind: 
+* Oyvind: Working on user taste profiles, and how these relate to the songs
 * Gena: Extracting the numerical data in arrays (segment pitches, segment timbre) and working out how to feed them into a model 
 
 ## To do list / ideas
