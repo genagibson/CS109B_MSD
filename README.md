@@ -6,7 +6,7 @@ Milestone 2 submitted!
 
 * Rahul: Looking into Billboard data and user plays as possible better target variables. Also looking at baseline model with data in the basic dataset.
 * Vladimir: Looking at song/track audio features; will look at removing mislabeled tracks; need to have an outline of doing model stacking
-* Oyvind: Working on user taste profiles, and how these relate to the songs
+* Oyvind: Working on user taste profiles, and how these relate to the songs. Exploring the tag data (e.g. artist name, artist tags) to see how these can be used in the model
 * Gena: Extracting the numerical data in arrays (segment pitches, segment timbre) and working out how to feed them into a model. Emailed TF to ask if changing target variable is OK.  
 
 ## To do list / ideas
