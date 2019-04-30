@@ -24,5 +24,5 @@ Milestone 2 submitted!
 
 
 ## Updates
-* New notebook is created with various classical models comparison. The best accuracy is brough by Randomforest around 79%. Th details can be found in the notebook 'ML_Model_v1.ipynb' under notebooks/Model/ML_Model_v1.ipynb
+* New notebook is created with various classical models comparison. The best accuracy is brough by Randomforest around 79%. The details can be found in the notebook 'ML_Model_v1.ipynb' under notebooks/Model/ML_Model_v1.ipynb
 
