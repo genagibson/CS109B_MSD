@@ -26,5 +26,5 @@ Milestone 2 submitted!
 ## Updates
 * New notebook is created with various classical models comparison. The best accuracy is brough by Randomforest around 79%. The details can be found in the notebook 'ML_Model_v1.ipynb' under notebooks/Model/ML_Model_v1.ipynb - RG
 
-* I also looked at processing the full data at AWS. The aws instance that is required to do that doesnt come under free instance. Need to discuss if this needs to be done. I have downloaded the whole dataset in csv format from another source.
+* I also looked at processing the full data at AWS. The aws instance that is required to do that doesnt come under free instance. Need to discuss if this needs to be done. I have downloaded the whole dataset in csv format from another source. - RG
 
