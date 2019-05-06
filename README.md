@@ -28,3 +28,4 @@ Milestone 2 submitted!
 
 * I also looked at processing the full data at AWS. The aws instance that is required to do that doesnt come under free instance. Need to discuss if this needs to be done. I have downloaded the whole dataset in csv format from another source. - RG
 
+* Added models that include lyrics data. Used LDA to create topics from lyrics and then used those topics to predict song hotness. As it turns out, using lyrics this way didnt improve the accuracy. Our accuracy still stays at around 80% based on random forest model.
